@@ -14,7 +14,10 @@ namespace ConsoleApp4
 
         public static double Mul(double a, double b) { return a * b; }
 
-        public static double Div(double a, double b) { return a / b; }
+        public static double Div1(double a, double b) { return a / b; }
+
+        public static double Div2(double a, double b) { return a / b; }
+        public static double Div3(double a, double b) { return a / b; }
 
         public static double Avg(IEnumerable<int> values)
         {
