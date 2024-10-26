@@ -20,5 +20,9 @@ namespace ConsoleApp4
         {
             return 0;
         }
+        public static double A(IEnumerable<int> values)
+        {
+            return 0;
+        }
     }
 }
