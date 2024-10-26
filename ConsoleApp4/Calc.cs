@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp4
 {
-    internal class Calc
+    internal static class Calc
     {
+        public static double Add(double a, double b) { return a + b; }
     }
 }
